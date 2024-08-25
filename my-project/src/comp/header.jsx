@@ -7,7 +7,7 @@ const Header = () => {
     <div>
       <nav className='flex justify-around text-xl font-mono  relative'>
         <img src={bg} className='h-screen m-0 w-[100%] '></img>
-        <div className=' absolute flex w-[80%] justify-around mt-6 p-3 rounded-2xl backdrop-blur-xl bg-black bg-opacity-20 space-x-80 text-white black-background '>
+        <div className=' absolute flex w-[80%] justify-around mt-6 p-3 rounded-2xl backdrop-blur-xl bg-black bg-opacity-20 space-x-80 text-white black-background'>
         <div className='flex space-x-2'>
           <img src={image} className='w-[35px]'></img>
           <p>Aria</p>
